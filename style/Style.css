@@ -1,6 +1,12 @@
 @charset "utf-8";
 
+body{
+    margin: 0;
+}
+
 .cabecalho{
     background-image: url(../imagens/Tupac_imagem\ de\ fundo.jpg);
-    width: 100%;
+    height: 550px;
+    background-size: cover;
+    padding-top: 1px;
 }
