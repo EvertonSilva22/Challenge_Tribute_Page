@@ -10,3 +10,27 @@ body{
     background-size: cover;
     padding-top: 1px;
 }
+
+.menu nav ul{
+    margin: 20px 50px 0 0; 
+
+}
+
+
+.menu nav li{
+    display: inline-block;
+    list-style-type: none;
+    border: 1px solid white;
+    margin-left: 20px;
+}
+
+.menu nav a{
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 10px;
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 3px;
+}
