@@ -11,20 +11,22 @@ body{
     padding-top: 1px;
 }
 
-.menu nav ul{
+.cabecalho nav ul{
     margin: 20px 50px 0 0; 
 
 }
 
 
-.menu nav li{
+.cabecalho nav li{
     display: inline-block;
     list-style-type: none;
     border: 1px solid white;
     margin-left: 20px;
+    color: white;
+    padding: 8px;
 }
 
-.menu nav a{
+.cabecalho nav a{
     background-color: rgba(0, 0, 0, 0.575);
     padding: 10px;
     display: block;
