@@ -36,3 +36,9 @@ body{
     font-size: 15px;
     letter-spacing: 3px;
 }
+
+.cabecalho h1{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
