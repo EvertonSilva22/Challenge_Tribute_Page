@@ -42,3 +42,8 @@ body{
     color: white;
     text-align: center;
 }
+
+.cabecalho a:hover{
+    background-color: white;
+    color: black;
+}
