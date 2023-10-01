@@ -56,12 +56,20 @@ body{
 /* Lista de Músicas */ 
 
 .musicas h1{
-    font-size: 50px;
+    font-size: 60px;
     text-align: center;
     /* font-family: ; */
     text-transform: capitalize;
 }
 
-h2{
-
+.musicas h2{
+font-size: 30px;
+text-align: center;
+text-transform: uppercase;
 }
+
+.musicas p{
+    font-size: 18px;
+    text-indent: 5px;
+}
+
