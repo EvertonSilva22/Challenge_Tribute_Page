@@ -66,10 +66,29 @@ body{
 font-size: 30px;
 text-align: center;
 text-transform: uppercase;
+
 }
 
 .musicas p{
     font-size: 18px;
     text-indent: 5px;
+}
+
+.musicas a{
+    text-align: center;
+    margin-left: 50%;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    width: 50px;
+    padding: 20px;
+    border-radius: 10px;  
+}
+
+.musicas a:hover{
+    background-color: rgb(2, 2, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    
 }
 
